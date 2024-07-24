@@ -1,0 +1,31 @@
+body, h1, h2, h3, h4, h5, h6, p, span, a, li, div {
+    font-family: 'Cairo', sans-serif !important ;
+}
+
+
+
+.about-area.style-3 .title-wrapper{
+    margin-bottom:30px !important;
+}
+
+.about-area.style-3 .desc-text{
+    max-width: 600px;
+}
+
+.cl-text{
+    color: #167664;
+}
+
+
+.list-plus li{
+    width: 107%;
+}
+.imgall{
+    width: 60px;
+}
+.feature-area.style-9.style-3 .wcf_iconbox.style-9 .text{
+    color:#f9f3f3 ;
+}
+.feature-area.style-9.style-3 .wcf_iconbox.style-9 .cf_text {
+   color: #f9f3f3; 
+}
